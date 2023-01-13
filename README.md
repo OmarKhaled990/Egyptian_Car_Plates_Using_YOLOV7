@@ -11,3 +11,4 @@ We used YOLOV7 as an object detection Model, due to it’s high accuracy and fas
 
 So we got a mAP of 0.92 on all the data, we can improve it by adjusting some parameters like learning rate.
 
+You will find 2 Jupyter notebooks in this repository, Egyption_Car_Plates_Detection is the YOLO Algorithm, but the other one named Testing_on_image is where you can test the 2 models on your own image
